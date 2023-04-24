@@ -1,0 +1,15 @@
+C:\Users\Daniel\source\repos\T8_EDCG_1009823\T8_EDCG_1009823\obj\Debug\net6.0\T8_EDCG_1009823.csproj.AssemblyReference.cache
+C:\Users\Daniel\source\repos\T8_EDCG_1009823\T8_EDCG_1009823\obj\Debug\net6.0\T8_EDCG_1009823.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\source\repos\T8_EDCG_1009823\T8_EDCG_1009823\obj\Debug\net6.0\T8_EDCG_1009823.AssemblyInfoInputs.cache
+C:\Users\Daniel\source\repos\T8_EDCG_1009823\T8_EDCG_1009823\obj\Debug\net6.0\T8_EDCG_1009823.AssemblyInfo.cs
+C:\Users\Daniel\source\repos\T8_EDCG_1009823\T8_EDCG_1009823\obj\Debug\net6.0\T8_EDCG_1009823.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\T8_EDCG_1009823\T8_EDCG_1009823\bin\Debug\net6.0\T8_EDCG_1009823.exe
+C:\Users\Daniel\source\repos\T8_EDCG_1009823\T8_EDCG_1009823\bin\Debug\net6.0\T8_EDCG_1009823.deps.json
+C:\Users\Daniel\source\repos\T8_EDCG_1009823\T8_EDCG_1009823\bin\Debug\net6.0\T8_EDCG_1009823.runtimeconfig.json
+C:\Users\Daniel\source\repos\T8_EDCG_1009823\T8_EDCG_1009823\bin\Debug\net6.0\T8_EDCG_1009823.dll
+C:\Users\Daniel\source\repos\T8_EDCG_1009823\T8_EDCG_1009823\bin\Debug\net6.0\T8_EDCG_1009823.pdb
+C:\Users\Daniel\source\repos\T8_EDCG_1009823\T8_EDCG_1009823\obj\Debug\net6.0\T8_EDCG_1009823.dll
+C:\Users\Daniel\source\repos\T8_EDCG_1009823\T8_EDCG_1009823\obj\Debug\net6.0\refint\T8_EDCG_1009823.dll
+C:\Users\Daniel\source\repos\T8_EDCG_1009823\T8_EDCG_1009823\obj\Debug\net6.0\T8_EDCG_1009823.pdb
+C:\Users\Daniel\source\repos\T8_EDCG_1009823\T8_EDCG_1009823\obj\Debug\net6.0\T8_EDCG_1009823.genruntimeconfig.cache
+C:\Users\Daniel\source\repos\T8_EDCG_1009823\T8_EDCG_1009823\obj\Debug\net6.0\ref\T8_EDCG_1009823.dll
